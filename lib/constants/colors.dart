@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 
-const Color tdRed = Color(0xFFDA4040);
-const Color tdBlue = Color(0xFF5F52EE);
+const Color colorRed = Color(0xFFFA5565);
+const Color colorBlue = Color(0xFF7646FF);
+const Color colorBlue2 = Color(0xFF6035CF);
 
-const Color tdBlack = Color(0xFF3A3A3A);
-const Color tdGrey = Color(0xFF717171);
+const Color colorBlack = Color(0xFF172735);
+const Color colorGrey = Color(0xFF808890);
 
-const Color tdBGColor = Color(0xFFEEEFF5);
+const Color colorWhite = Color(0xFFEEEFF5);
